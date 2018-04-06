@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/Lightfields.unity
+  isLoaded: 1
+  isActive: 1
